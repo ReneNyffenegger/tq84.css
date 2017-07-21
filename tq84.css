@@ -2,6 +2,17 @@
   font-family: Garamond
 }
 
+h1#title {
+
+}
+
+h2 {margin-left:1.5em;}
+m3 {margin-left:3.0em;}
+
+div.t {
+  width: 60em;
+}
+
 div.t + div.t {
   margin-top: 0.5em
 }
@@ -12,6 +23,10 @@ div.code {
   background-color: #eee;
   font-family: Consolas, monospace;
   white-space: pre;
+}
+
+div.code, div.t {
+  margin-left: 5em;
 }
 
 table tr {
