@@ -6,6 +6,14 @@ div.t + div.t {
   margin-top: 0.5em
 }
 
+div.code {
+  padding: 0.2em;
+  border:1px solid black;
+  background-color: #eee;
+  font-family: Consolas, monospace;
+  white-space: pre;
+}
+
 table tr {
   vertical-align:top
 }
