@@ -3,7 +3,7 @@
 }
 
 h1#title {
-
+  font-size: 3em;
 }
 
 h2 {margin-left:1.5em;}
@@ -27,6 +27,10 @@ div.code {
 
 div.code, div.t {
   margin-left: 5em;
+}
+
+ul {
+  margin-top: 0;
 }
 
 table tr {
