@@ -25,7 +25,7 @@ div.code {
   white-space: pre;
 }
 
-div.code, div.t {
+div.code, div.t, img {
   margin-left: 5em;
 }
 
