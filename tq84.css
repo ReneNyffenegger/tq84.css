@@ -21,8 +21,12 @@ div.code {
   padding: 0.2em;
   border:1px solid black;
   background-color: #eee;
-  font-family: Consolas, monospace;
   white-space: pre;
+}
+
+div.code,
+div.code * {
+  font-family: Consolas, monospace;  
 }
 
 div.code, div.t, img {
