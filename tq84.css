@@ -24,6 +24,7 @@ div.code {
   white-space: pre;
 }
 
+code,
 div.code,
 div.code * {
   font-family: Consolas, monospace;  
