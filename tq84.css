@@ -45,3 +45,15 @@ table tr {
 .bottom {
   margin-bottom: 2000px;
 }
+
+.todo, .done {
+  font-weight: bold;
+}
+.todo {
+  color: yellow;
+  background-color: red;
+}
+.done {
+  color: #12aa55;
+  background-color: 77ff77;
+}
