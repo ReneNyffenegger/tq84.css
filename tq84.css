@@ -30,7 +30,7 @@ div.code * {
   font-family: Consolas, monospace;  
 }
 
-div.code, div.t, img {
+div.code, div.t, img, table {
   margin-left: 5em;
 }
 
